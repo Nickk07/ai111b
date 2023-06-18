@@ -1,3 +1,5 @@
 The project references are from below links:
-[Indently](https://www.youtube.com/@Indently)
-[OpenAI](https://platform.openai.com)
+<br />
+[Indently](https://www.youtube.com/@Indently) - Youtuber
+<br />
+[OpenAI](https://platform.openai.com) - ChatGPT
